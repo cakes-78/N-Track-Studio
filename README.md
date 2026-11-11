@@ -204,4 +204,4 @@ This repository serves as the official landing page for N-track Studio. The soft
 **Get the most recent version of N-track Studio today!** | Updated November 2023
 
 ---
-**Last updated:** 2026-11-10 22:52:56 UTC
+**Last updated:** 2026-11-11 02:32:51 UTC
